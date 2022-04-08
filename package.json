@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ariffb25/stikerinbot.git"
+    "url": "git+https://github.com/awraihangt/wildbot.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Ariffb",
+  "author": "wild",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ariffb25/stikerinbot/issues"
+    "url": "https://github.com/awraihangt/wildbot/issues"
   },
-  "homepage": "https://github.com/ariffb25/stikerinbot",
+  "homepage": "https://github.com/awraihangt/wildbot",
   "dependencies": {
     "@adiwajshing/baileys": "github:melcanz/Baileys",
     "awesome-phonenumber": "^2.54.0",
