@@ -4,7 +4,7 @@
 <h1 align="center">stikerinbot</h1>
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ariffb25/stikerinbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/awraihangt/wildbot)
 
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
